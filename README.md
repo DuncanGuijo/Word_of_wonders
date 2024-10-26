@@ -12,7 +12,7 @@
 
 ## 📸 Capturas de Pantalla
 
-(Agrega aquí capturas o un GIF del juego en funcionamiento para dar una visual del proyecto)
+![Demostración del juego](./gif.gif)
 
 🛠 Tecnologías Utilizadas
 
@@ -50,6 +50,8 @@
     Accede al juego en la url proporcionada por vite
 
 📂 Estructura del Proyecto
+
+```plaintext
 
 WondersOfWords/
 │
