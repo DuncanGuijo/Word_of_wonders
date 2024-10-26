@@ -25,7 +25,7 @@
 
 1. Clona el repositorio:
 
-   git clone https://github.com/usuario/WondersOfWords.git
+   git clone https://github.com/DuncanGuijo/Word_of_wonders.git
 
 2. Ajusta las variables y rutas necesarias:
 
